@@ -27,6 +27,9 @@
 ==================================================
 \************************************************/
 
+.navbar-brand img {
+  width: 20px;
+}
 
 /************************************************\
 ==================================================
@@ -38,7 +41,7 @@
 }
 
 .kaamelott-banner.jumbotron {
-  background-image: url('/img/kaamelott-banner.jpg');
+  background-image: url('file:///media/amaurea/98286c41-4922-4b5b-b260-4814d5e0aa7a/korra/Code/checkpoint/bordeaux-fev2017-checkpoint-1/frontend/img/kaamelott-banner.jpg');
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -110,3 +113,6 @@ blockquote {
 4. Footer
 ==================================================
 \************************************************/
+footer {
+  text-align: center;
+}
